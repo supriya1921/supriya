@@ -1,0 +1,16 @@
+Turining Machine was the first model of computation by allen turing. It halts in two accept aor reject state.
+His idea of any vomputation with the help of turining machine was based on the thinking that any kind of operation
+that can be done on pen and paper can be assumed to be performed on a grid.He agued that two dimensional frid is just a convinience.
+So he brougth this idea down to one dimensional grid.Every thing is read one at a time and the machine can move either left or right in the tape.
+ie the read/write head.(7 tuples)
+Finite set of states
+input alphabets
+tape symbols(read/write head)
+transition logic
+start state
+reject state
+accept state
+
+
+
+

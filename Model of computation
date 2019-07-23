@@ -10,7 +10,7 @@ transition logic
 start state
 reject state
 accept state
-
+MultiTape Machine can be used to simulate RAM
 
 
 
